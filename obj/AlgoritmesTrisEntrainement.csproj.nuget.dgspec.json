@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\babac\\Documents\\OwnGitProjects\\AlgoritmesTrisEntrainement\\AlgoritmesTrisEntrainement.csproj": {}
+    "C:\\Users\\babac\\Documents\\OwnGitProjects\\AlgoritmesTrisEntrainement\\AlgoritmesTrisEntrainement.csproj": {}
   },
   "projects": {
-    "c:\\Users\\babac\\Documents\\OwnGitProjects\\AlgoritmesTrisEntrainement\\AlgoritmesTrisEntrainement.csproj": {
+    "C:\\Users\\babac\\Documents\\OwnGitProjects\\AlgoritmesTrisEntrainement\\AlgoritmesTrisEntrainement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\babac\\Documents\\OwnGitProjects\\AlgoritmesTrisEntrainement\\AlgoritmesTrisEntrainement.csproj",
+        "projectUniqueName": "C:\\Users\\babac\\Documents\\OwnGitProjects\\AlgoritmesTrisEntrainement\\AlgoritmesTrisEntrainement.csproj",
         "projectName": "AlgoritmesTrisEntrainement",
-        "projectPath": "c:\\Users\\babac\\Documents\\OwnGitProjects\\AlgoritmesTrisEntrainement\\AlgoritmesTrisEntrainement.csproj",
+        "projectPath": "C:\\Users\\babac\\Documents\\OwnGitProjects\\AlgoritmesTrisEntrainement\\AlgoritmesTrisEntrainement.csproj",
         "packagesPath": "C:\\Users\\babac\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\babac\\Documents\\OwnGitProjects\\AlgoritmesTrisEntrainement\\obj\\",
+        "outputPath": "C:\\Users\\babac\\Documents\\OwnGitProjects\\AlgoritmesTrisEntrainement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
