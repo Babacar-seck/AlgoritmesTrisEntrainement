@@ -1,0 +1,15 @@
+C:\Users\babac\Documents\OwnGitProjects\AlgoritmesTrisEntrainement\bin\Debug\net6.0\AlgoritmesTrisEntrainement.exe
+C:\Users\babac\Documents\OwnGitProjects\AlgoritmesTrisEntrainement\bin\Debug\net6.0\AlgoritmesTrisEntrainement.deps.json
+C:\Users\babac\Documents\OwnGitProjects\AlgoritmesTrisEntrainement\bin\Debug\net6.0\AlgoritmesTrisEntrainement.runtimeconfig.json
+C:\Users\babac\Documents\OwnGitProjects\AlgoritmesTrisEntrainement\bin\Debug\net6.0\AlgoritmesTrisEntrainement.dll
+C:\Users\babac\Documents\OwnGitProjects\AlgoritmesTrisEntrainement\bin\Debug\net6.0\AlgoritmesTrisEntrainement.pdb
+C:\Users\babac\Documents\OwnGitProjects\AlgoritmesTrisEntrainement\obj\Debug\net6.0\AlgoritmesTrisEntrainement.csproj.AssemblyReference.cache
+C:\Users\babac\Documents\OwnGitProjects\AlgoritmesTrisEntrainement\obj\Debug\net6.0\AlgoritmesTrisEntrainement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babac\Documents\OwnGitProjects\AlgoritmesTrisEntrainement\obj\Debug\net6.0\AlgoritmesTrisEntrainement.AssemblyInfoInputs.cache
+C:\Users\babac\Documents\OwnGitProjects\AlgoritmesTrisEntrainement\obj\Debug\net6.0\AlgoritmesTrisEntrainement.AssemblyInfo.cs
+C:\Users\babac\Documents\OwnGitProjects\AlgoritmesTrisEntrainement\obj\Debug\net6.0\AlgoritmesTrisEntrainement.csproj.CoreCompileInputs.cache
+C:\Users\babac\Documents\OwnGitProjects\AlgoritmesTrisEntrainement\obj\Debug\net6.0\AlgoritmesTrisEntrainement.dll
+C:\Users\babac\Documents\OwnGitProjects\AlgoritmesTrisEntrainement\obj\Debug\net6.0\refint\AlgoritmesTrisEntrainement.dll
+C:\Users\babac\Documents\OwnGitProjects\AlgoritmesTrisEntrainement\obj\Debug\net6.0\AlgoritmesTrisEntrainement.pdb
+C:\Users\babac\Documents\OwnGitProjects\AlgoritmesTrisEntrainement\obj\Debug\net6.0\AlgoritmesTrisEntrainement.genruntimeconfig.cache
+C:\Users\babac\Documents\OwnGitProjects\AlgoritmesTrisEntrainement\obj\Debug\net6.0\ref\AlgoritmesTrisEntrainement.dll
